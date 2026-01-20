@@ -49,8 +49,8 @@ Responsive-sidebar-menu/
 
 ## 📸 Preview
 
-> Add a screenshot of your project here after pushing it to GitHub.
-
+><img width="1906" height="915" alt="Screenshot 2026-01-20 205625" src="https://github.com/user-attachments/assets/4354fe99-4129-4a74-aa48-5ae12eb70dcb" />
+<img width="1904" height="913" alt="Screenshot 2026-01-20 205710" src="https://github.com/user-attachments/assets/29ce383c-c646-4b81-a78f-b6d30e20fb8a" />
 ---
 
 ## 📌 Learning Outcomes
