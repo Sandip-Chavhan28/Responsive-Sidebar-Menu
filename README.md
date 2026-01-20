@@ -1,0 +1,75 @@
+# Responsive Sidebar Menu 🔥
+
+A clean and modern **responsive sidebar navigation menu** built using **HTML and CSS only**.  
+This project uses a checkbox-based toggle system to open and close the sidebar without JavaScript.
+
+---
+
+## 🚀 Features
+
+- Pure HTML & CSS (No JavaScript)
+- Smooth sidebar open/close animation
+- Font Awesome icons
+- Google Fonts integration
+- Hover effects for better UI
+- Fully responsive design
+- Beginner-friendly and interview-ready project
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts
+- Font Awesome Icons
+
+---
+
+## 📂 Project Structure
+
+Responsive-sidebar-menu/
+│
+├── index.html
+├── style.css
+├── photo.jpg
+└── README.md
+
+
+---
+
+## 🎯 How It Works
+
+- A hidden checkbox is used to control the sidebar state.
+- When the checkbox is checked, CSS `:checked` selector moves the sidebar into view.
+- Smooth transitions are added using CSS `transition`.
+- No JavaScript is required.
+
+---
+
+## 📸 Preview
+
+> Add a screenshot of your project here after pushing it to GitHub.
+
+---
+
+## 📌 Learning Outcomes
+
+- Understanding CSS positioning (absolute & fixed)
+- Using sibling selectors (`~`) in CSS
+- Creating animations using CSS transitions
+- Building UI components without JavaScript
+- Improving clean HTML structure
+
+---
+
+## 👨‍💻 Author
+
+**Sandip Devanand Chavhan**  
+Aspiring Web Developer & Data Analyst  
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
