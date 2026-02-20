@@ -6,12 +6,13 @@
 }
 
 .main_box{
-    height: 100vh;
+    min-height: 100vh;
+    width: 100%;
     background-image: url(photo.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
-
 /* MENU BUTTON */
 .btn_one{
     color:white;
@@ -158,6 +159,12 @@
     .btn_one{
         font-size:24px;
     }
+     
+    .main_box{
+        min-height: 100vh;
+        background-position: center center;
+    }
+}
 }
 
 /* Mobile Phones */
@@ -181,3 +188,4 @@
         left:10px;
     }
 }
+
